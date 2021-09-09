@@ -1,1 +1,2 @@
-# biostat776-intro-Emily-DeBoyA line I wrote on my local computer
+# Introducing myself
+This website contains a short introduction of Emily DeBoy

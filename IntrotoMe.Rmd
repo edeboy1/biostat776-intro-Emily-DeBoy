@@ -1,0 +1,19 @@
+---
+title: "Intro to Me"
+author: "Emily DeBoy"
+date: "9/9/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hi, nice to meet you!
+
+My name is Emily DeBoy and I'm a third year graduate student in the human genetics and MD-PhD program. I'm originally from Columbia MD and went to the University of Maryland College Park for undergrad. I have a bachelor's in math/statistics and some coursework in programming but don't have much experience applying that knowledge in a research setting, I actually spend almost all my time in a wet lab. I'm hoping to gain a better understanding of how to perform reproducible statistical analyses in R to use in my future work.
+
+## Cute dog picture
+Sorry I don't like talking about myself that much so I included a picture of my family's dog on vacation instead
+
+![Lucy relaxing in the Adirondacks](/Users/emily/Downloads/IMG_4841.jpg)
